@@ -1,4 +1,8 @@
-[![](https://github-readme-stats.vercel.app/api?username=yikafu)](https://github.com/anuraghazra/github-readme-stats)
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yikafu&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
+Hi,I come from Guangdong University of Finance and Economics.😀
+As a student learning in the community.👋
+<div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yikafu&langs_count=5" style="float: left;">
+</div>
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=yikafu&show_icons=true" style="float: left;">
 </div>
